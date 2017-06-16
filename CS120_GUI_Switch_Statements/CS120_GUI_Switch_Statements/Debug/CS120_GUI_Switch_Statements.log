@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  frmMain.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  CS120_GUI_Switch_Statements.vcxproj -> C:\Users\Hammad\Desktop\Coding Stuff\CS 120 Stuff\CS 120 Week 10\CS120_GUI_Switch_Statements\Debug\CS120_GUI_Switch_Statements.exe
+  CS120_GUI_Switch_Statements.vcxproj -> C:\Users\Hammad\Desktop\Coding Stuff\CS 120 Stuff\CS 120 Week 10\CS120_GUI_Switch_Statements\Debug\CS120_GUI_Switch_Statements.pdb (Partial PDB)
